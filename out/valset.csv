@@ -1,0 +1,2 @@
+,age,blood pressure,cholesterol,max heart rate,plasma glucose,skin_thickness,insulin,bmi,diabetes_pedigree,gender_F,gender_M,chest pain type_0,chest pain type_1,chest pain type_2,chest pain type_3,chest pain type_4,exercise angina_No,exercise angina_Yes,hypertension_No,hypertension_Yes,heart_disease_No,heart_disease_Yes,Residence_type_Rural,Residence_type_Urban,smoking_status_Unknown,smoking_status_formerly smoked,smoking_status_never smoked,smoking_status_smokes
+1,49.0,160.0,180.0,156.0,107.0,40.0,115.0,18.0,0.467386013986014,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,1,0

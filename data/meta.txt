@@ -1,0 +1,20 @@
+shape:                  rows = 6961 | cols = 18
+columns:                18
+'ID',                   (1 - 6961)
+'age',                  (28.0 - 82.0)
+'gender',               ['M', 'F']
+'chest pain type',      [0, 1, 2, 3, 4]
+'blood pressure',       (60 - 165)
+'cholesterol',          (150 - 294)
+'max heart rate',       (138 - 202)
+'exercise angina',      ['Yes', 'No']
+'plasma glucose',       (55.12 - 199.0)
+'skin_thickness',       (21.0 - 99.0)
+'insulin',              (81.0 - 171.0)
+'bmi',                  (10.3 - 66.8)
+'diabetes_pedigree',    (0.078 - 2.42)
+'hypertension',         ['Yes', 'No']
+'heart_disease',        ['Yes', 'No']
+'Residence_type',       ['Urban', 'Rural']
+'smoking_status',       ['never smoked', 'Unknown', 'formerly smoked', 'smokes']
+'triage':               ['yellow', 'green', 'blue', 'orange', 'red']
