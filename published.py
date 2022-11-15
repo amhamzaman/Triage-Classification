@@ -175,7 +175,7 @@ cols = {'Blue': 'Aqua', 'Orange': 'Coral', 'Green': "LightGreen", 'Yellow': 'Lem
 st.write('Patient Data')
 st.dataframe(df)
 res =st.session_state['result'].capitalize()
-style = f"background-color:{cols[res]};font-size:30px;border-radius:5px;padding:5px;"
+style = f"background-color:{cols[res]};font-size:30px;border-radius:5px;padding:5px;padding-left:20px;padding-right:20px"
 #style = "font-size:30px"
-st.markdown(f"""Triage category of patient: &nbsp;&nbsp;<span style={style}> {res} </span>""", unsafe_allow_html=True)
+st.markdown(f"""Triage category of patient: &nbsp;&nbsp;<span style={style}>{res}</span>""", unsafe_allow_html=True)
 
